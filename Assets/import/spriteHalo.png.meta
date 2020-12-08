@@ -1,0 +1,2182 @@
+fileFormatVersion: 2
+guid: 4ea7c1060075dd24d94b6d47f2ee4bcf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3239522244270106568
+    second: spriteHalo_0
+  - first:
+      213: 8686398558437747493
+    second: spriteHalo_1
+  - first:
+      213: -1768802054144587580
+    second: spriteHalo_2
+  - first:
+      213: -3333510964451296396
+    second: spriteHalo_3
+  - first:
+      213: 7459702339910552925
+    second: spriteHalo_4
+  - first:
+      213: -8114169113427041367
+    second: spriteHalo_5
+  - first:
+      213: 4083928157328088745
+    second: spriteHalo_6
+  - first:
+      213: 2346129590899206715
+    second: spriteHalo_7
+  - first:
+      213: -1226382121639293146
+    second: spriteHalo_8
+  - first:
+      213: -4205799579125567973
+    second: spriteHalo_9
+  - first:
+      213: 4768426381762536518
+    second: spriteHalo_10
+  - first:
+      213: -8468390573310812447
+    second: spriteHalo_11
+  - first:
+      213: -6971835377036035097
+    second: spriteHalo_12
+  - first:
+      213: 3033169455762696636
+    second: spriteHalo_13
+  - first:
+      213: 7049224144179790259
+    second: spriteHalo_14
+  - first:
+      213: 2084800509886804639
+    second: spriteHalo_15
+  - first:
+      213: 4735287535352842682
+    second: spriteHalo_16
+  - first:
+      213: -334608488917732231
+    second: spriteHalo_17
+  - first:
+      213: 2946098415517730956
+    second: spriteHalo_18
+  - first:
+      213: -3088172840560430260
+    second: spriteHalo_19
+  - first:
+      213: 4059662467549543588
+    second: spriteHalo_20
+  - first:
+      213: 8013099904704837927
+    second: spriteHalo_21
+  - first:
+      213: 2717042236738885575
+    second: spriteHalo_22
+  - first:
+      213: 5892911419943406446
+    second: spriteHalo_23
+  - first:
+      213: 6818031207308497790
+    second: spriteHalo_24
+  - first:
+      213: 6781447532854392005
+    second: spriteHalo_25
+  - first:
+      213: -5698548293424767904
+    second: spriteHalo_26
+  - first:
+      213: 7858574131445480747
+    second: spriteHalo_27
+  - first:
+      213: 8540428906704670787
+    second: spriteHalo_28
+  - first:
+      213: -2013456060776298920
+    second: spriteHalo_29
+  - first:
+      213: 8547152329552970652
+    second: spriteHalo_30
+  - first:
+      213: 5398045061656361303
+    second: spriteHalo_31
+  - first:
+      213: 544271681111498597
+    second: spriteHalo_32
+  - first:
+      213: 7714052567638581531
+    second: spriteHalo_33
+  - first:
+      213: 5508393768567779237
+    second: spriteHalo_34
+  - first:
+      213: 4993080317063759427
+    second: spriteHalo_35
+  - first:
+      213: -3425469677168759597
+    second: spriteHalo_36
+  - first:
+      213: 2548224881221248499
+    second: spriteHalo_37
+  - first:
+      213: -4368080321890009069
+    second: spriteHalo_38
+  - first:
+      213: 6394469616318312426
+    second: spriteHalo_39
+  - first:
+      213: 7081455485741556233
+    second: spriteHalo_40
+  - first:
+      213: 3817630126535555813
+    second: spriteHalo_41
+  - first:
+      213: -4549648268319725887
+    second: spriteHalo_42
+  - first:
+      213: -3600338225899621570
+    second: spriteHalo_43
+  - first:
+      213: -1091863091625667869
+    second: spriteHalo_44
+  - first:
+      213: -5434643993662484864
+    second: spriteHalo_45
+  - first:
+      213: -2351378261029308965
+    second: spriteHalo_46
+  - first:
+      213: 3145181318466003724
+    second: spriteHalo_47
+  - first:
+      213: 1232575107174696385
+    second: spriteHalo_48
+  - first:
+      213: -3304886505683228147
+    second: spriteHalo_49
+  - first:
+      213: 4065151480319598228
+    second: spriteHalo_50
+  - first:
+      213: 645712240726724813
+    second: spriteHalo_51
+  - first:
+      213: -427815788657065527
+    second: spriteHalo_52
+  - first:
+      213: -5929986321376226283
+    second: spriteHalo_53
+  - first:
+      213: -9120694136309095309
+    second: spriteHalo_54
+  - first:
+      213: -6899577775134346622
+    second: spriteHalo_55
+  - first:
+      213: -4816537532307646453
+    second: spriteHalo_56
+  - first:
+      213: 5949272540904129766
+    second: spriteHalo_57
+  - first:
+      213: 3789012513357007531
+    second: spriteHalo_58
+  - first:
+      213: 7640619074418149872
+    second: spriteHalo_59
+  - first:
+      213: 957060880408426001
+    second: spriteHalo_60
+  - first:
+      213: -2435586736628314350
+    second: spriteHalo_61
+  - first:
+      213: -7590353995443473530
+    second: spriteHalo_62
+  - first:
+      213: 3306171870986960268
+    second: spriteHalo_63
+  - first:
+      213: 7140149585724086956
+    second: spriteHalo_64
+  - first:
+      213: -2233001101243959825
+    second: spriteHalo_65
+  - first:
+      213: 3907278798644820631
+    second: spriteHalo_66
+  - first:
+      213: 8622140383694219415
+    second: spriteHalo_67
+  - first:
+      213: 6721941505433012949
+    second: spriteHalo_68
+  - first:
+      213: -4842438558856217985
+    second: spriteHalo_69
+  - first:
+      213: 2555362050013255113
+    second: spriteHalo_70
+  - first:
+      213: 1554507364546143352
+    second: spriteHalo_71
+  - first:
+      213: 2289665492800531021
+    second: spriteHalo_72
+  - first:
+      213: -2311505043885756203
+    second: spriteHalo_73
+  - first:
+      213: -6311111051347198389
+    second: spriteHalo_74
+  - first:
+      213: 1418616794835134393
+    second: spriteHalo_75
+  - first:
+      213: 3940759520053885321
+    second: spriteHalo_76
+  - first:
+      213: -7949128059118587019
+    second: spriteHalo_77
+  - first:
+      213: -3963500257644499153
+    second: spriteHalo_78
+  - first:
+      213: -7028382271847886940
+    second: spriteHalo_79
+  - first:
+      213: -7157930650799975762
+    second: spriteHalo_80
+  - first:
+      213: 338095394273571872
+    second: spriteHalo_81
+  - first:
+      213: -8535728446119804107
+    second: spriteHalo_82
+  - first:
+      213: -6179192232450332684
+    second: spriteHalo_83
+  - first:
+      213: -7149534340808119432
+    second: spriteHalo_84
+  - first:
+      213: 2597398559184573221
+    second: spriteHalo_85
+  - first:
+      213: -7611335105510420927
+    second: spriteHalo_86
+  - first:
+      213: -9011622173970410535
+    second: spriteHalo_87
+  - first:
+      213: -4900531101329964094
+    second: spriteHalo_88
+  - first:
+      213: -6171864756012806747
+    second: spriteHalo_89
+  - first:
+      213: 3959318801074394856
+    second: spriteHalo_90
+  - first:
+      213: -1033548426100842480
+    second: spriteHalo_91
+  - first:
+      213: 4048423143480996092
+    second: spriteHalo_92
+  - first:
+      213: -3452887197564384535
+    second: spriteHalo_93
+  - first:
+      213: 8402381845911901402
+    second: spriteHalo_94
+  - first:
+      213: 8611452568194191269
+    second: spriteHalo_95
+  - first:
+      213: -7621264908909201091
+    second: spriteHalo_96
+  - first:
+      213: 4211784568040440475
+    second: spriteHalo_97
+  - first:
+      213: -3550422557457817405
+    second: spriteHalo_98
+  - first:
+      213: -528004649092883474
+    second: spriteHalo_99
+  - first:
+      213: -8196275924931502669
+    second: spriteHalo_100
+  - first:
+      213: -4038905991425053299
+    second: spriteHalo_101
+  - first:
+      213: -796759747154348882
+    second: spriteHalo_102
+  - first:
+      213: -4217598854377207172
+    second: spriteHalo_103
+  - first:
+      213: 8876683597027069278
+    second: spriteHalo_104
+  - first:
+      213: 5598212755090252979
+    second: spriteHalo_105
+  - first:
+      213: -5964928812164781512
+    second: spriteHalo_106
+  - first:
+      213: -1144973359832246650
+    second: spriteHalo_107
+  - first:
+      213: -8714948085883312902
+    second: spriteHalo_108
+  - first:
+      213: -1315014856520207209
+    second: spriteHalo_109
+  - first:
+      213: -4733584752506895208
+    second: spriteHalo_110
+  - first:
+      213: 5693316924966234263
+    second: spriteHalo_111
+  - first:
+      213: -7691609596102430488
+    second: spriteHalo_112
+  - first:
+      213: 5453265149889939833
+    second: spriteHalo_113
+  - first:
+      213: -1425077127886010901
+    second: spriteHalo_114
+  - first:
+      213: 3426889400480363364
+    second: spriteHalo_115
+  - first:
+      213: 3635589741537600948
+    second: spriteHalo_116
+  - first:
+      213: -7141111386954979037
+    second: spriteHalo_117
+  - first:
+      213: -3857928491683859229
+    second: spriteHalo_118
+  - first:
+      213: -3361797990382764277
+    second: spriteHalo_119
+  - first:
+      213: 2622979484718828745
+    second: spriteHalo_120
+  - first:
+      213: -4266221234053951876
+    second: spriteHalo_121
+  - first:
+      213: 7881856270762885892
+    second: spriteHalo_122
+  - first:
+      213: 6255682060002529265
+    second: spriteHalo_123
+  - first:
+      213: -7507859004020569106
+    second: spriteHalo_124
+  - first:
+      213: 1957615689307114882
+    second: spriteHalo_125
+  - first:
+      213: -7000039245936366260
+    second: spriteHalo_126
+  - first:
+      213: 112659013198697995
+    second: spriteHalo_127
+  - first:
+      213: 3236951550201580110
+    second: spriteHalo_128
+  - first:
+      213: -2444562489238445563
+    second: spriteHalo_129
+  - first:
+      213: -6670262784504854856
+    second: spriteHalo_130
+  - first:
+      213: 7574571538109849446
+    second: spriteHalo_131
+  - first:
+      213: -5248134328130248625
+    second: spriteHalo_132
+  - first:
+      213: 8646265363943640181
+    second: spriteHalo_133
+  - first:
+      213: -8890219353348281035
+    second: spriteHalo_134
+  - first:
+      213: 4770146217992469318
+    second: spriteHalo_135
+  - first:
+      213: -9033579573382403284
+    second: spriteHalo_136
+  - first:
+      213: 2937369286059133204
+    second: spriteHalo_137
+  - first:
+      213: 3747458898787345965
+    second: spriteHalo_138
+  - first:
+      213: -6436926045870520122
+    second: spriteHalo_139
+  - first:
+      213: -5941766249570866365
+    second: spriteHalo_140
+  - first:
+      213: 6658218900179949362
+    second: spriteHalo_141
+  - first:
+      213: 2326877461796935099
+    second: spriteHalo_142
+  - first:
+      213: -5052613390902034056
+    second: spriteHalo_143
+  - first:
+      213: 8034217189093776126
+    second: spriteHalo_144
+  - first:
+      213: 368294981476997347
+    second: spriteHalo_145
+  - first:
+      213: 6012836847833426734
+    second: spriteHalo_146
+  - first:
+      213: -1742794270728066859
+    second: spriteHalo_147
+  - first:
+      213: 1262178387812115436
+    second: spriteHalo_148
+  - first:
+      213: -2984772326374385980
+    second: spriteHalo_149
+  - first:
+      213: 3123520649505208010
+    second: spriteHalo_150
+  - first:
+      213: -5635940722135751960
+    second: spriteHalo_151
+  - first:
+      213: -1964070294359811786
+    second: spriteHalo_152
+  - first:
+      213: 1844717149275788982
+    second: spriteHalo_153
+  - first:
+      213: 6811517224935240855
+    second: spriteHalo_154
+  - first:
+      213: -185351043133083839
+    second: spriteHalo_155
+  - first:
+      213: -1243088991205033104
+    second: spriteHalo_156
+  - first:
+      213: -7259453548715154982
+    second: spriteHalo_157
+  - first:
+      213: -8739458287059691359
+    second: spriteHalo_158
+  - first:
+      213: 5486503370302929979
+    second: spriteHalo_159
+  - first:
+      213: 802087019967362041
+    second: spriteHalo_160
+  - first:
+      213: -4240842942553164714
+    second: spriteHalo_161
+  - first:
+      213: 7401218376654219509
+    second: spriteHalo_162
+  - first:
+      213: -1636364537358520425
+    second: spriteHalo_163
+  - first:
+      213: -7238264603392063837
+    second: spriteHalo_164
+  - first:
+      213: 3215421979678006824
+    second: spriteHalo_165
+  - first:
+      213: 5932462330378242915
+    second: spriteHalo_166
+  - first:
+      213: -1388664553952112197
+    second: spriteHalo_167
+  - first:
+      213: -4650874424422292162
+    second: spriteHalo_168
+  - first:
+      213: -89373390749437708
+    second: spriteHalo_169
+  - first:
+      213: 8437995854770164312
+    second: spriteHalo_170
+  - first:
+      213: 5849218412627903004
+    second: spriteHalo_171
+  - first:
+      213: -1213025511443566795
+    second: spriteHalo_172
+  - first:
+      213: -3892841054631830003
+    second: spriteHalo_173
+  - first:
+      213: 3473686232238401143
+    second: spriteHalo_174
+  - first:
+      213: -615809693099573798
+    second: spriteHalo_175
+  - first:
+      213: -1361743728198797563
+    second: spriteHalo_176
+  - first:
+      213: 7898055995393675758
+    second: spriteHalo_177
+  - first:
+      213: 3383063737996010976
+    second: spriteHalo_178
+  - first:
+      213: -2350287067518698774
+    second: spriteHalo_179
+  - first:
+      213: -2087046874083065618
+    second: spriteHalo_180
+  - first:
+      213: 3393978610238078021
+    second: spriteHalo_181
+  - first:
+      213: 5648001291370900050
+    second: spriteHalo_182
+  - first:
+      213: -4746340861868369893
+    second: spriteHalo_183
+  - first:
+      213: -5267435338821032549
+    second: spriteHalo_184
+  - first:
+      213: -4234625202180562051
+    second: spriteHalo_185
+  - first:
+      213: 2334479638759828773
+    second: spriteHalo_186
+  - first:
+      213: -2846930581525808234
+    second: spriteHalo_187
+  - first:
+      213: 4392710665538780747
+    second: spriteHalo_188
+  - first:
+      213: 6057773727173148667
+    second: spriteHalo_189
+  - first:
+      213: 1863211369270618188
+    second: spriteHalo_190
+  - first:
+      213: -3307945364035092554
+    second: spriteHalo_191
+  - first:
+      213: -4017311443027107712
+    second: spriteHalo_192
+  - first:
+      213: -299596194562202060
+    second: spriteHalo_193
+  - first:
+      213: -5523960360211885018
+    second: spriteHalo_194
+  - first:
+      213: -8282697203275431186
+    second: spriteHalo_195
+  - first:
+      213: 6695528420111978333
+    second: spriteHalo_196
+  - first:
+      213: -8414065482299286851
+    second: spriteHalo_197
+  - first:
+      213: 4339339777433251515
+    second: spriteHalo_198
+  - first:
+      213: 70557057363460151
+    second: spriteHalo_199
+  - first:
+      213: 1444106171407487156
+    second: spriteHalo_200
+  - first:
+      213: 5890426313700109254
+    second: spriteHalo_201
+  - first:
+      213: -4367085514441710894
+    second: spriteHalo_202
+  - first:
+      213: 6007228434855438
+    second: spriteHalo_203
+  - first:
+      213: -8567293238984881538
+    second: spriteHalo_204
+  - first:
+      213: 5156593881368732141
+    second: spriteHalo_205
+  - first:
+      213: -6715946619084131235
+    second: spriteHalo_206
+  - first:
+      213: 3257804832311769195
+    second: spriteHalo_207
+  - first:
+      213: 5974345486908717654
+    second: spriteHalo_208
+  - first:
+      213: -7822240006232666137
+    second: spriteHalo_209
+  - first:
+      213: -979252031226721833
+    second: spriteHalo_210
+  - first:
+      213: 8843227976510259966
+    second: spriteHalo_211
+  - first:
+      213: 8708096591713182118
+    second: spriteHalo_212
+  - first:
+      213: 5928125320967056018
+    second: spriteHalo_213
+  - first:
+      213: -6248520140318532146
+    second: spriteHalo_214
+  - first:
+      213: 8388909171441803626
+    second: spriteHalo_215
+  - first:
+      213: -3692715471513803899
+    second: spriteHalo_216
+  - first:
+      213: -5478070926493727655
+    second: spriteHalo_217
+  - first:
+      213: -4339244686385665610
+    second: spriteHalo_218
+  - first:
+      213: 7080807069146632636
+    second: spriteHalo_219
+  - first:
+      213: 7274921273610467184
+    second: spriteHalo_220
+  - first:
+      213: -4241974753260393302
+    second: spriteHalo_221
+  - first:
+      213: -137750479682086172
+    second: spriteHalo_222
+  - first:
+      213: -845530601133624269
+    second: spriteHalo_223
+  - first:
+      213: 5986063482978568728
+    second: spriteHalo_224
+  - first:
+      213: 7582617068942271004
+    second: spriteHalo_225
+  - first:
+      213: 5789358125469644347
+    second: spriteHalo_226
+  - first:
+      213: -6321634632972104491
+    second: spriteHalo_227
+  - first:
+      213: -7310510039563444786
+    second: spriteHalo_228
+  - first:
+      213: 3232252639081747452
+    second: spriteHalo_229
+  - first:
+      213: -7412876847723572308
+    second: spriteHalo_230
+  - first:
+      213: 1992803403575926540
+    second: spriteHalo_231
+  - first:
+      213: 7235595626366757806
+    second: spriteHalo_232
+  - first:
+      213: 8109108086026376238
+    second: spriteHalo_233
+  - first:
+      213: 5957324068616191151
+    second: spriteHalo_234
+  - first:
+      213: -6320033297203721025
+    second: spriteHalo_235
+  - first:
+      213: 1110515095316211699
+    second: spriteHalo_236
+  - first:
+      213: -6377292970075223241
+    second: spriteHalo_237
+  - first:
+      213: -117063155702195102
+    second: spriteHalo_238
+  - first:
+      213: -6268635472658201706
+    second: spriteHalo_239
+  - first:
+      213: 1733772840584070917
+    second: spriteHalo_240
+  - first:
+      213: 3598167141254310976
+    second: spriteHalo_241
+  - first:
+      213: 8680725656236785394
+    second: spriteHalo_242
+  - first:
+      213: -4506744971731172458
+    second: spriteHalo_243
+  - first:
+      213: -7374424344831413515
+    second: spriteHalo_244
+  - first:
+      213: -8246025335636246157
+    second: spriteHalo_245
+  - first:
+      213: -7076557306349798737
+    second: spriteHalo_246
+  - first:
+      213: 4534198451105322709
+    second: spriteHalo_247
+  - first:
+      213: 2571132098600486446
+    second: spriteHalo_248
+  - first:
+      213: 621373667530076946
+    second: spriteHalo_249
+  - first:
+      213: -4862823510645541374
+    second: spriteHalo_250
+  - first:
+      213: -8237593884921113044
+    second: spriteHalo_251
+  - first:
+      213: -9009966363853313813
+    second: spriteHalo_252
+  - first:
+      213: 4063272717045905235
+    second: spriteHalo_253
+  - first:
+      213: 7229287055341039145
+    second: spriteHalo_254
+  - first:
+      213: -43739380799433195
+    second: spriteHalo_255
+  - first:
+      213: 4982817713779186190
+    second: spriteHalo_256
+  - first:
+      213: -5950554816142630732
+    second: spriteHalo_257
+  - first:
+      213: 8187212009486908269
+    second: spriteHalo_258
+  - first:
+      213: -3112607710865531589
+    second: spriteHalo_259
+  - first:
+      213: 7303445174530156258
+    second: spriteHalo_260
+  - first:
+      213: 8073170625839056849
+    second: spriteHalo_261
+  - first:
+      213: -4911253141529142371
+    second: spriteHalo_262
+  - first:
+      213: -2622439073413993155
+    second: spriteHalo_263
+  - first:
+      213: 3842301241795896837
+    second: spriteHalo_264
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriteHalo_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 208
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c722b3415815fc20800000000000000
+      internalID: 3239522244270106568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 209
+        width: 60
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ba52567794c8870800000000000000
+      internalID: 8686398558437747493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 209
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c80bbc37e3f377e0800000000000000
+      internalID: -1768802054144587580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 192
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bb205807dfcb1d0800000000000000
+      internalID: -3333510964451296396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 172
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dc48441cf268760800000000000000
+      internalID: 7459702339910552925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 168
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a32cba9e2ea46f80800000000000000
+      internalID: -8114169113427041367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae91c185070da830800000000000000
+      internalID: 4083928157328088745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 184
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a649ebe602f8020800000000000000
+      internalID: 2346129590899206715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 196
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fccc045f30bfee0800000000000000
+      internalID: -1226382121639293146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 196
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1eabb9e09ff1a5c0800000000000000
+      internalID: -4205799579125567973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 200
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644ae8ea78adc2240800000000000000
+      internalID: 4768426381762536518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 196
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeda8a14ab3a7a80800000000000000
+      internalID: -8468390573310812447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 165
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebf347b9a01f3f90800000000000000
+      internalID: -6971835377036035097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 165
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9ec42bc8bf71a20800000000000000
+      internalID: 3033169455762696636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 158
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b181ffb200e3d160800000000000000
+      internalID: 7049224144179790259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 157
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f923b5b9403beec10800000000000000
+      internalID: 2084800509886804639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 156
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab98a0ebcee17b140800000000000000
+      internalID: 4735287535352842682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_17
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 157
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9747a372a5b3b5bf0800000000000000
+      internalID: -334608488917732231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 158
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88864a56e4a2e820800000000000000
+      internalID: 2946098415517730956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 158
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43f261d92b9425d0800000000000000
+      internalID: -3088172840560430260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_20
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 158
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acb6465181d65830800000000000000
+      internalID: 4059662467549543588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729f5a978ef343f60800000000000000
+      internalID: 8013099904704837927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 128
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7dd80d48fd4b520800000000000000
+      internalID: 2717042236738885575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_23
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 128
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bc196e6b3d7c150800000000000000
+      internalID: 5892911419943406446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 127
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73962372438e9e50800000000000000
+      internalID: 6818031207308497790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c43cbaf99a8c1e50800000000000000
+      internalID: 6781447532854392005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 127
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c1203f480bae0b0800000000000000
+      internalID: -5698548293424767904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_27
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 127
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2db1e939834f0d60800000000000000
+      internalID: 7858574131445480747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_28
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 127
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3401c9d67d2b58670800000000000000
+      internalID: 8540428906704670787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 129
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85642966164ce04e0800000000000000
+      internalID: -2013456060776298920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_30
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93482c42c59d9670800000000000000
+      internalID: 8547152329552970652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 95
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759349d2265b9ea40800000000000000
+      internalID: 5398045061656361303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 95
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f94f5d534ad8700800000000000000
+      internalID: 544271681111498597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_33
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 95
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11a9c080f1dd0b60800000000000000
+      internalID: 7714052567638581531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_34
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 94
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af2572a2feb17c40800000000000000
+      internalID: 5508393768567779237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 94
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3468499081cfa4540800000000000000
+      internalID: 4993080317063759427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_36
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 94
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dceb7f3a794670d0800000000000000
+      internalID: -3425469677168759597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_37
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 88
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f52105470d1d5320800000000000000
+      internalID: 2548224881221248499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 88
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3104f5f17167163c0800000000000000
+      internalID: -4368080321890009069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_39
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 88
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef6ea79c38bdb850800000000000000
+      internalID: 6394469616318312426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 89
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902ed50ce32664260800000000000000
+      internalID: 7081455485741556233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_41
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 89
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea3bf79f52faf430800000000000000
+      internalID: 3817630126535555813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 89
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6e4d941076cd0c0800000000000000
+      internalID: -4549648268319725887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_43
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 58
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e333efd7577090ec0800000000000000
+      internalID: -3600338225899621570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 58
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2da489d4ce8d0f0800000000000000
+      internalID: -1091863091625667869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_45
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 58
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e890de4144494b0800000000000000
+      internalID: -5434643993662484864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 57
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5b5c20ee93e5fd0800000000000000
+      internalID: -2351378261029308965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 57
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c036c59cebde5ab20800000000000000
+      internalID: 3145181318466003724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_48
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 57
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5032e878cfa1110800000000000000
+      internalID: 1232575107174696385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_49
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 51
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ae4cdab3fa222d0800000000000000
+      internalID: -3304886505683228147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_50
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 51
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e5a96bbb15a6830800000000000000
+      internalID: 4065151480319598228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_51
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 51
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc053af9cd706f800800000000000000
+      internalID: 645712240726724813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_52
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 52
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1cacf8ec7101af0800000000000000
+      internalID: -427815788657065527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_53
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 52
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514d17febd474bda0800000000000000
+      internalID: -5929986321376226283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_54
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 52
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374ee4ca109cc6180800000000000000
+      internalID: -9120694136309095309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 17
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282ffeca196cf30a0800000000000000
+      internalID: -6899577775134346622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_56
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 17
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08577b22a8382db0800000000000000
+      internalID: -4816537532307646453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 17
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e48398fadf009250800000000000000
+      internalID: 5949272540904129766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 16
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa872c4ec6459430800000000000000
+      internalID: 3789012513357007531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_59
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 16
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f984c2019ee80a60800000000000000
+      internalID: 7640619074418149872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteHalo_60
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 16
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116ba2dccc9284d00800000000000000
+      internalID: 957060880408426001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
